@@ -1,12 +1,15 @@
 
 # HTML & CSS PROJECT 7 ![img](https://img.shields.io/badge/PROJECT%207-HTML%20%26%20CSS-orange)
 
-This one is a product home page which created using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a product home page which created using HTML & CSS only as well. This website is fully responsive.
 ## Screenshot
 
 
 ![Project 7](https://user-images.githubusercontent.com/109405477/182111608-7b67ebcd-dce5-45e0-8895-1f87b5438bd5.png)
 
+![Project 7 Mobile View](https://user-images.githubusercontent.com/109405477/185882738-7701f99e-75a4-454e-9daf-7cdaf832dda1.jpg)
+
+![Project 7 Mobile View-1](https://user-images.githubusercontent.com/109405477/185882792-74df3929-eaa7-475d-9771-9dca92413ead.jpg)
 
 ## Deployed Link
 
@@ -20,9 +23,10 @@ This one is a product home page which created using HTML & CSS only as well. Thi
 3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
+6. I learned about Media Queries.
 ## Time took to finish the project
 
-It took me 4 hours to finish this project and it was challenging to work on.
+It took me 5 hours to finish this project and it was challenging to work on.
 ## 🚀 About Me
 I'm Yash Kumar and i am aspiring to be a Full Stack Web Developer.
 
