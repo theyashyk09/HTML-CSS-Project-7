@@ -7,6 +7,8 @@ This one is a product home page which created using HTML & CSS only as well. Thi
 
 ![Project 7](https://user-images.githubusercontent.com/109405477/182111608-7b67ebcd-dce5-45e0-8895-1f87b5438bd5.png)
 
+<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/109405477/185882738-7701f99e-75a4-454e-9daf-7cdaf832dda1.jpg)" width="200" height="400" />
+
 ![Project 7 Mobile View](https://user-images.githubusercontent.com/109405477/185882738-7701f99e-75a4-454e-9daf-7cdaf832dda1.jpg | width=100)
 
 ![Project 7 Mobile View-1](https://user-images.githubusercontent.com/109405477/185882792-74df3929-eaa7-475d-9771-9dca92413ead.jpg)
