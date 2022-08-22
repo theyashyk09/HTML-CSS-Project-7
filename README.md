@@ -4,7 +4,8 @@
 This one is a product home page which created using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
 ## Screenshot
 
-![Project 7 Screenshot](./Project%207.png)
+
+![Project 7](https://user-images.githubusercontent.com/109405477/182111608-7b67ebcd-dce5-45e0-8895-1f87b5438bd5.png)
 
 
 ## Deployed Link
